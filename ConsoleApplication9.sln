@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "ConsoleApplication9\AbstractClass.csproj", "{89613BEB-4D59-46E2-8498-A26FB2C10CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading", "overloading\overloading.csproj", "{44F37A11-E5D7-462F-9265-EC21BEE36A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface", "interface\interface.csproj", "{59F42057-C046-4E26-8C41-A095F1B138DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "StaticConstructor\StaticConstructor.csproj", "{DBDF790B-E523-4C32-A1C2-E10E073A4447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89613BEB-4D59-46E2-8498-A26FB2C10CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89613BEB-4D59-46E2-8498-A26FB2C10CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89613BEB-4D59-46E2-8498-A26FB2C10CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89613BEB-4D59-46E2-8498-A26FB2C10CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F37A11-E5D7-462F-9265-EC21BEE36A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F37A11-E5D7-462F-9265-EC21BEE36A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F37A11-E5D7-462F-9265-EC21BEE36A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F37A11-E5D7-462F-9265-EC21BEE36A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F42057-C046-4E26-8C41-A095F1B138DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F42057-C046-4E26-8C41-A095F1B138DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F42057-C046-4E26-8C41-A095F1B138DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F42057-C046-4E26-8C41-A095F1B138DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDF790B-E523-4C32-A1C2-E10E073A4447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF790B-E523-4C32-A1C2-E10E073A4447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF790B-E523-4C32-A1C2-E10E073A4447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF790B-E523-4C32-A1C2-E10E073A4447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
