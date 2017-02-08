@@ -1,0 +1,60 @@
+[1mdiff --git a/.vs/ConsoleApplication9/v14/.suo b/.vs/ConsoleApplication9/v14/.suo[m
+[1mindex fab72b4..c66d474 100644[m
+Binary files a/.vs/ConsoleApplication9/v14/.suo and b/.vs/ConsoleApplication9/v14/.suo differ
+[1mdiff --git a/ConsoleApplication9/AbstractClass.csproj b/ConsoleApplication9/AbstractClass.csproj[m
+[1mindex 82243cb..20b9992 100644[m
+[1m--- a/ConsoleApplication9/AbstractClass.csproj[m
+[1m+++ b/ConsoleApplication9/AbstractClass.csproj[m
+[36m@@ -42,7 +42,6 @@[m
+     <Reference Include="System.Xml" />[m
+   </ItemGroup>[m
+   <ItemGroup>[m
+[31m-    <Compile Include="Employee.cs" />[m
+     <Compile Include="Program.cs" />[m
+     <Compile Include="Properties\AssemblyInfo.cs" />[m
+   </ItemGroup>[m
+[1mdiff --git a/ConsoleApplication9/Employee.cs b/ConsoleApplication9/Employee.cs[m
+[1mdeleted file mode 100644[m
+[1mindex 7e0a775..0000000[m
+[1m--- a/ConsoleApplication9/Employee.cs[m
+[1m+++ /dev/null[m
+[36m@@ -1,10 +0,0 @@[m
+[31m-﻿using System;[m
+[31m-using System.Collections.Generic;[m
+[31m-using System.Linq;[m
+[31m-using System.Text;[m
+[31m-using System.Threading.Tasks;[m
+[31m-[m
+[31m-namespace ConsoleApplication9[m
+[31m-{[m
+[31m-   [m
+[31m-}[m
+[1mdiff --git a/ConsoleApplication9/bin/Debug/ConsoleApplication9.exe b/ConsoleApplication9/bin/Debug/ConsoleApplication9.exe[m
+[1mindex a95c0c3..e23869e 100644[m
+Binary files a/ConsoleApplication9/bin/Debug/ConsoleApplication9.exe and b/ConsoleApplication9/bin/Debug/ConsoleApplication9.exe differ
+[1mdiff --git a/ConsoleApplication9/bin/Debug/ConsoleApplication9.pdb b/ConsoleApplication9/bin/Debug/ConsoleApplication9.pdb[m
+[1mindex 308fde6..8634840 100644[m
+Binary files a/ConsoleApplication9/bin/Debug/ConsoleApplication9.pdb and b/ConsoleApplication9/bin/Debug/ConsoleApplication9.pdb differ
+[1mdiff --git a/ConsoleApplication9/bin/Debug/ConsoleApplication9.vshost.exe.manifest b/ConsoleApplication9/bin/Debug/ConsoleApplication9.vshost.exe.manifest[m
+[1mdeleted file mode 100644[m
+[1mindex 061c9ca..0000000[m
+[1m--- a/ConsoleApplication9/bin/Debug/ConsoleApplication9.vshost.exe.manifest[m
+[1m+++ /dev/null[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>[m
+[31m-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">[m
+[31m-  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>[m
+[31m-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">[m
+[31m-    <security>[m
+[31m-      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">[m
+[31m-        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>[m
+[31m-      </requestedPrivileges>[m
+[31m-    </security>[m
+[31m-  </trustInfo>[m
+[31m-</assembly>[m
+[1mdiff --git a/ConsoleApplication9/obj/Debug/ConsoleApplication9.exe b/ConsoleApplication9/obj/Debug/ConsoleApplication9.exe[m
+[1mindex a95c0c3..e23869e 100644[m
+Binary files a/ConsoleApplication9/obj/Debug/ConsoleApplication9.exe and b/ConsoleApplication9/obj/Debug/ConsoleApplication9.exe differ
+[1mdiff --git a/ConsoleApplication9/obj/Debug/ConsoleApplication9.pdb b/ConsoleApplication9/obj/Debug/ConsoleApplication9.pdb[m
+[1mindex 308fde6..8634840 100644[m
+Binary files a/ConsoleApplication9/obj/Debug/ConsoleApplication9.pdb and b/ConsoleApplication9/obj/Debug/ConsoleApplication9.pdb differ
