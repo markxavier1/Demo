@@ -3,4 +3,3 @@ C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\interface
 C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\interface\bin\Debug\@interface.pdb
 C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\interface\obj\Debug\@interface.exe
 C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\interface\obj\Debug\@interface.pdb
-C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\interface\obj\Debug\interface.csprojResolveAssemblyReference.cache

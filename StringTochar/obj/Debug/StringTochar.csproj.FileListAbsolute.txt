@@ -1,0 +1,6 @@
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\bin\Debug\StringTochar.exe.config
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\bin\Debug\StringTochar.exe
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\bin\Debug\StringTochar.pdb
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\obj\Debug\StringTochar.csprojResolveAssemblyReference.cache
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\obj\Debug\StringTochar.exe
+C:\Users\Bob\Documents\Visual Studio 2015\Projects\ConsoleApplication9\StringTochar\obj\Debug\StringTochar.pdb
