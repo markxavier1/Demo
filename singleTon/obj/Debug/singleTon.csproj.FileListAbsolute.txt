@@ -1,0 +1,6 @@
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\bin\Debug\singleTon.exe.config
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\bin\Debug\singleTon.exe
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\bin\Debug\singleTon.pdb
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\obj\Debug\singleTon.exe
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\obj\Debug\singleTon.pdb
+C:\Users\Bob\documents\visual studio 2015\Projects\ConsoleApplication9\singleTon\obj\Debug\singleTon.csprojResolveAssemblyReference.cache
